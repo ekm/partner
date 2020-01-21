@@ -15,7 +15,7 @@ Java 11 JDK
 Maven
 ```
 
-### How to run
+## How to run
 
 Run the application through maven
 ```
